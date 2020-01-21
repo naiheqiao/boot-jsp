@@ -64,6 +64,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>pss</finalName>
+    <finalName>xydp</finalName>
   </build>
 </project>
